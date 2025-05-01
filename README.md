@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Tomchl01
 
-Welcome to my GitHub! I’m Tom, a Data Analyst in the online poker industry based in Costa Rica 🇨🇷. With nearly six years of operational experience and a strong technical foundation in R and Python, I’m on a mission to bridge the gap between raw data and actionable insights — especially in the world of poker, integrity analytics, and real-time reporting.
+Welcome to my GitHub! I’m Tom, a Data Analyst in the online poker industry based in Costa Rica 🇨🇷. With nearly eight years of operational experience and a strong technical foundation in R and Python, I’m on a mission to bridge the gap between raw data and actionable insights — especially in the world of poker, integrity analytics, and real-time reporting.
 
 ---
 
