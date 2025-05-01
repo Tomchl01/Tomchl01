@@ -18,6 +18,8 @@ Welcome to my GitHub! I’m Tom, a Data Analyst in the online poker industry bas
 - 🧰 SQL optimization, Views, and indexing for massive poker datasets.
 - 🛜 Clean API integration and credential management.
 - 🏗️ Infrastructure basics: automation, build scripts, and deployment practices.
+- 📊 Designing and test of EV loss models using solvers like PioSOLVER
+- ⚡Explore NLP and transcript mining for video and support analysis
 
 ---
 
